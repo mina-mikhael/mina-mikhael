@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mina-mikhael
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on learning how to code 
 - 📫 How to reach me mina.s.mikhael@gmail.com
 
