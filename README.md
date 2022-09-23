@@ -18,7 +18,7 @@
     width="45"
 /></a>
 &nbsp; &nbsp; &nbsp;
-<a href="mailto:mina.s.mikhael@gmail.com" target="blank"
+<a href="mailto:mina.s.mikhael@gmail.com" target="_blank"
   ><img
     align="center"
     src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
