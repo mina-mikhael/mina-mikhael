@@ -1,14 +1,22 @@
-<h1 align="center"> Hi👋, I’m Mina!</h1>
+<h1 align="center">Hi👋, I’m Mina!</h1>
 <h3 align="center">A passionate full stack web developer from Clearwater, FL</h3>
 
-- 🔭 I’m currently working on a **HR-Portal** personal project, building both back and front ends.
-- 🌱 I’m currently learning **Data Structures** and **Algorithms**
+
+- 🔭 I’m currently working on a **HR-Portal** personal project, building both backend and frontend. 
+- 🌱 I’m currently learning **Data Structures** and **Algorithms** 
 - 💞️ Talk to me about **Coding** and **Fishing** and we will be best friends 
-- 📫 How to reach me **mina.s.mikhael@gmail.com**
-- ⚡ Fun facts, I love **Fishing** and **Travel**, made it to 4 **continents** and 7 **countries** so far. 
+- 📫 How to reach me **mina.s.mikhael@gmail.com** 
+- ⚡ Fun facts, I love **Fishing** and **Travel**, made it to 4 **continents** and 7 **countries** so far.
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/mina-s-mikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylerandrews" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mina-s-mikhael" target="blank"
+  ><img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="kylerandrews"
+    height="30"
+    width="40"
+/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -120,7 +128,7 @@
       height="40"
     />
   </a>
-    <a href="https://www.npmjs.com/package/axios" target="_blank">
+  <a href="https://www.npmjs.com/package/axios" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
       alt="axios"
@@ -128,8 +136,15 @@
       height="40"
     />
   </a>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://www.cypress.io" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+      alt="cypress"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
@@ -139,10 +154,18 @@
   </a>
 </p>
 
-
-<hr>
-<p style='display: block'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-mikhael&show_icons=true&locale=en" alt="chelseaceballos" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-mikhael&show_icons=true&locale=en&layout=compact" alt="chelseaceballos" /></p>
-
-
-
+<hr />
+<p style="display: block">
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=mina-mikhael&show_icons=true&locale=en"
+    alt="chelseaceballos"
+  />
+</p>
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-mikhael&show_icons=true&locale=en&layout=compact"
+    alt="chelseaceballos"
+  />
+</p>
