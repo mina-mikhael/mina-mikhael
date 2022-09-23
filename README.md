@@ -13,10 +13,20 @@
   ><img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="kylerandrews"
-    height="30"
-    width="40"
+    alt="Mina-Mikhael"
+    height="50"
+    width="50"
 /></a>
+&nbsp; &nbsp; &nbsp;
+<a href="mailto:mina.s.mikhael@gmail.com" target="blank"
+  ><img
+    align="center"
+    src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
+    alt="Mina-Mikhael"
+    height="60"
+    width="70"
+/></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -154,7 +164,7 @@
   </a>
 </p>
 
-<hr />
+<hr/>
 <p style="display: block">
   &nbsp;<img
     align="center"
