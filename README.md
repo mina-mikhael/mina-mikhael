@@ -9,7 +9,7 @@
 - ⚡ Fun facts, I love **Fishing** and **Travel**, made it to 4 **continents** and 7 **countries** so far.
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/mina-s-mikhael" target="blank"
+<a href="https://linkedin.com/in/mina-s-mikhael" target="_blank"
   ><img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
