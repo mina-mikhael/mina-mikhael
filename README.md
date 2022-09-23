@@ -14,8 +14,8 @@
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="Mina-Mikhael"
-    height="50"
-    width="50"
+    height="45"
+    width="45"
 /></a>
 &nbsp; &nbsp; &nbsp;
 <a href="mailto:mina.s.mikhael@gmail.com" target="blank"
@@ -23,8 +23,8 @@
     align="center"
     src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
     alt="Mina-Mikhael"
-    height="60"
-    width="70"
+    height="50"
+    width="60"
 /></a>
 
 
