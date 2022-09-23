@@ -128,7 +128,18 @@
       height="40"
     />
   </a>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
+
+
 <hr>
 <p style='display: block'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-mikhael&show_icons=true&locale=en" alt="chelseaceballos" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-mikhael&show_icons=true&locale=en&layout=compact" alt="chelseaceballos" /></p>
