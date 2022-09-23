@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Mina Mikhael</h1>
+<h1 align="center"> Hi👋, I’m Mina!</h1>
 <h3 align="center">A passionate full stack web developer from Clearwater, FL</h3>
 
 - 🔭 I’m currently working on a **HR-Portal** personal project, building both back and front ends.
@@ -116,6 +116,14 @@
     <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
       alt="sqlite"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.npmjs.com/package/axios" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg"
+      alt="axios"
       width="40"
       height="40"
     />
