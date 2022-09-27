@@ -107,7 +107,7 @@
 
   <a href="https://www.mysql.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
+      src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
       alt="MySQL"
       width="40"
       height="40"
