@@ -105,10 +105,10 @@
     />
   </a>
 
-  <a href="https://www.postgresql.org" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
+      src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
+      alt="MySQL"
       width="40"
       height="40"
     />
