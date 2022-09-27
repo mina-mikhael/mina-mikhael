@@ -85,7 +85,7 @@
       alt="git"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://heroku.com" target="_blank">
     <img
