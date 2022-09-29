@@ -1,12 +1,18 @@
 <h1 align="center">Hi👋, I’m Mina!</h1>
 <h3 align="center">A passionate full stack web developer from Clearwater, FL</h3>
 
+<p>🔭 I’m currently working on an <strong>HR-Portal</strong> personal project, building both backend and frontend
+</p>
+<p>🌱 I’m currently learning <strong>Data Structures</strong> and <strong>Algorithms
+</strong></p>
+<p>📲 Talk to me about <strong>Coding</strong> and <strong>Fishing</strong> and we will be best friends
+</p>
+<p>📫 How to reach me <strong> <a href="mailto:mina.s.mikhael@gmail.com" target="_blank"
+  > mina.s.mikhael@gmail.com</a></strong>
+</p>
+<p>⚡ Fun facts, I love <strong>Fishing</strong> and <strong>Travel</strong>, made it to 4 continents and 7 countries so far🌐
+</p>
 
-🔭 I’m currently working on an **HR-Portal** personal project, building both backend and frontend
-🌱 I’m currently learning **Data Structures** and **Algorithms**
-📲 Talk to me about **Coding** and **Fishing** and we will be best friends
-📫 How to reach me **mina.s.mikhael@gmail.com**
-⚡ Fun facts, I love Fishing and Travel, made it to 4 continents and 7 countries so far🌐
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/mina-s-mikhael" target="_blank"
