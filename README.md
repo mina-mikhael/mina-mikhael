@@ -59,6 +59,13 @@
       width="40"
       height="40"
     />
+  </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
