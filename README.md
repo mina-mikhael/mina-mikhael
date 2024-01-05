@@ -59,9 +59,9 @@
       width="40"
       height="40"
     />
-  </a>  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  </a>  <a href="https://www.typescriptlang.org/docs/" target="_blank" >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-plain.svg"
       alt="javascript"
       width="40"
       height="40"
